@@ -153,10 +153,6 @@
         </execution>
     </executions>
 </plugin>
-<<<<<<< HEAD
-
-=======
->>>>>>> feature/msp-9
                 </plugins>
             </build>
 
