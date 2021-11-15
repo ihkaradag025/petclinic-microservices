@@ -129,10 +129,7 @@
                             <failOnNoGitDirectory>false</failOnNoGitDirectory>
                         </configuration>
                     </plugin>
-<<<<<<< HEAD
 
-=======
->>>>>>> feature/msp-9
                     <plugin>
     <groupId>org.jacoco</groupId>
     <artifactId>jacoco-maven-plugin</artifactId>
@@ -209,3 +206,4 @@
     </repositories>
 
 </project>
+<!--13 düzeltme--> 
